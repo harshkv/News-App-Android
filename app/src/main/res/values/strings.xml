@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAndNewsInfo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="newsHighlights"> News Highlights</string>
+    <string name="today"> Today in </string>
+    <string name="nextdays"> Next 3 days </string>
+    <string name="query_string">Search in your city</string>
+    <string name="no_data_available"> No result for search </string>
+    <string name="default_city">New York City</string>
+    <string name="default_title">City Highlights</string>
+</resources>
