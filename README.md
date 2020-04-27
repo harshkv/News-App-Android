@@ -3,6 +3,7 @@
 ![](weatherNews.png)
 
 Developed an 100% Kotlin Android application for City search weather and news. The application is built on MVVM Architecture and Androidx librairies. Multiple API calls with Retrofit-Kotlin Coroutines, Okhttp and GSON parsing, LiveData, Koin Dependency Injection, Picasso, RecyclerView, Google’s Material Design, WebView, SharedPreferences, JetPack Navigation.
+
 ## Project characteristics 
 -------
 * [Kotlin](https://kotlinlang.org/)
@@ -30,6 +31,9 @@ Developed an 100% Kotlin Android application for City search weather and news. T
 * [Retrofit](https://square.github.io/retrofit/) A type-safe HTTP client for Android and Java.
 
 
-
+## API Used
+-------
+* [OpenWeatherAPI](https://openweathermap.org/current) Access current weather data for any location on Earth including over 200,000 cities!
+* [NewsOrg](http://newsapi.org/) Get breaking news headlines, and search for articles from over 50,000 news sources and blogs.
  
  
