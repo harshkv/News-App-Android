@@ -37,3 +37,7 @@ Developed an 100% Kotlin Android application for City search weather and news. T
 * [NewsOrg](http://newsapi.org/) Get breaking news headlines, and search for articles from over 50,000 news sources and blogs.
  
  
+## Contact
+If you need any help, you can connect with me.
+
+Visit:- [https://harshithakv.com/](https://harshithakv.com/)
