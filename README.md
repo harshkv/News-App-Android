@@ -25,6 +25,10 @@ Developed an 100% Kotlin Android application for City search weather and news. T
 * [Dependency Injection- Koin](https://insert-koin.io/) - Toothpick is a scope tree based, runtime with a special focus on Android.
 * [DataBinding](https://developer.android.com/topic/libraries/data-binding) - The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources.
 * [SharedPrferences](https://developer.android.com/reference/android/content/SharedPreferences) Interface for accessing and modifying preference data
+* [Picasso](https://square.github.io/picasso/) A powerful image downloading and caching library for Android
+* [GSON Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) A Converter which uses Gson for serialization to and from JSON.
+* [Retrofit](https://square.github.io/retrofit/) A type-safe HTTP client for Android and Java.
+
 
 
  
