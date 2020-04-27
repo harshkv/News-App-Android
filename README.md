@@ -6,7 +6,7 @@ Developed an 100% Kotlin Android application for City search weather and news. T
 * [Kotlin](https://kotlinlang.org/)
 * Architecture Design (Model-View-ViewModel)
 * [Android Jetpack](https://developer.android.com/jetpack)
-* Single-activity architecture, using the [Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
+* [Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started) Single-activity architecture
 * [Dependency Injection- Koin](https://insert-koin.io/)
 * [Google Material Design](https://material.io/design/)
 
