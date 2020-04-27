@@ -14,7 +14,7 @@ Developed an 100% Kotlin Android application for City search weather and news. T
 
 ## Built with
 -------
-* [Kotlin](https://kotlinlang.org/) - Android mobile development has been Kotlin-first since Google I/O in 2019.
+* [Kotlin](https://kotlinlang.org)- Android mobile development has been Kotlin-first since Google I/O in 2019.
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - Asynchronous or non-blocking programming.
 * [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) MVVM stands for Model, View, ViewModel.
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Data objects that notify views when the underlying data changes.
