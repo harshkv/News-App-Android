@@ -2,7 +2,7 @@
 
 ![](weatherNews.png)
 
-Developed an 100% Kotlin Android application for City search weather and news. The application is built on MVVM Architecture and Androidx librairies. Multiple API calls with Retrofit-Kotlin Coroutines, Okhttp and GSON parsing, LiveData, Koin Dependency Injection, Picasso, RecyclerView, Google’s Material Design, WebView, SharedPreferences, JetPack Navigation.
+Developed an 100% Kotlin Android application for City search news and weather. The application is built on MVVM Architecture and Androidx librairies. Multiple API calls with Retrofit-Kotlin Coroutines, Okhttp and GSON parsing, LiveData, Koin Dependency Injection, Picasso, RecyclerView, Google’s Material Design, WebView, SharedPreferences, JetPack Navigation.
 
 ## Project characteristics 
 -------
